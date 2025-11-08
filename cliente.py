@@ -1,6 +1,6 @@
 import socket
 
-def start_client(host='xxx.xxx.x.x', port=8888):
+def start_client(host=''IP_DO_SERVIDOR'', port=8888):
     """
     Função principal que inicia o cliente de chat.
     
