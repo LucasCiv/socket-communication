@@ -1,9 +1,3 @@
-> **Trabalho** **4** **de** **REDES** **DE** **COMPUTADORES**
-
-Nome: Lucas Thiago Dias Civardi
-
-Parte 1: Teoria
-
 **O** **que** **são** **sockets** **e** **qual** **seu** **papel**
 **na** **comunicação** **entre** **processos** **?**
 
@@ -77,7 +71,7 @@ diagrama
 
 Servidor: Confirma com close()
 
-Parte 2: Prática
+
 
 **Justificativa** **da** **escolha** **da** **linguagem:**
 
